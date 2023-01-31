@@ -26,6 +26,8 @@
 
 > If you want to modify the data of "kutta" whose Pet Id is 1 please click on modify button 
 
+![image](https://user-images.githubusercontent.com/79514008/215836482-a7d5b60e-5c1a-4803-a8df-713bd4a446ad.png)
+
 ![image](https://user-images.githubusercontent.com/79514008/215833731-14d9f01b-ceb9-4290-8a86-ca5a41d6fd67.png)
 
 ##### Add Operation 
